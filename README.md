@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Vedanshi Mishra</h1>
 <h3 align="center">A nerdy tech-geek</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedanshimishra3124&label=Profile%20views&color=0e75b6&style=flat" alt="vedanshimishra3124" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vedanshimishra&label=Profile%20views&color=0e75b6&style=flat" alt="vedanshimishra3124" /> </p>
 
 - 🌱 I’m currently learning **Machine learning and Javascript**
 
-- 📝 I regularly write articles on [https://medium.com/@vedanshimishra3124](https://medium.com/@vedanshimishra3124)
+- 📝 I regularly write articles on [https://medium.com/@Vedanshimishra3124](https://medium.com/@vedanshimishra3124)
 
 - 💬 Ask me about **Python HTML CSS CPP**
 
