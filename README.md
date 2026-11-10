@@ -1,43 +1,69 @@
-## Hi there 👋
-
-<!--
-**Vedanshimishra/Vedanshimishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Vedanshi Mishra</h1>
-<h3 align="center">A nerdy tech-geek</h3>
+<h3 align="center">B.Tech ECE-AI @ IGDTUW · Ex-Google SWE Intern · Building agentic AI & scalable systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vedanshimishra&label=Profile%20views&color=0e75b6&style=flat" alt="vedanshimishra3124" /> </p>
-
-- 🌱 I’m currently learning **Machine learning and Javascript**
-
-- 💬 Ask me about **Python HTML CSS CPP**
-
-- 📫 How to reach me **vedanshi151bteceai23@igdtuw.ac.in**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vedanshi mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedanshi mishra" height="30" width="40" /></a>
-<a href="https://medium.com/@vedanshimishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vedanshimishra" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vemigod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vemigod" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vedanshi7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/vemigod/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="mailto:vedanshi151@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Vedanshimishra&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vedanshimishra&show_icons=true&locale=en&layout=compact" alt="vedanshimishra3124" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vedanshimishra&show_icons=true&locale=en" alt="vedanshimishra3124" /></p>
+## 👩‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vedanshimishra&" alt="vedanshimishra3124" /></p>
+- 🎓 Final-year B.Tech in **Electronics & Communication Engineering with AI** at **Indira Gandhi Delhi Technical University for Women** (2023 – 2027), CGPA **9.06**
+- 💼 Summer 2026 **SWE Intern at Google (Bangalore)**, working on Google Cloud
+- 🤖 Currently exploring **Agentic AI, LLMs, RAG, LangChain and LangGraph**
+- 🧩 Active on LeetCode, mentor to 30+ juniors in DSA
+- 💬 Ask me about **C++, Python, DSA, React, FastAPI, Machine Learning**
+- 📫 Reach me at **vedanshi151@gmail.com**
 
+---
+
+## 💼 Experience
+
+**Google, SWE Intern** · Bangalore · Jun 2026 – Jul 2026
+- Built an **incremental reporting pipeline** replacing a full-scan model: latency from **10+ hours to 4 hours**, **22.8M+ redundant calls eliminated** per execution, covering **30M+ orgs** across Google Cloud.
+- Traced and fixed **IAM policy error propagation**, improving access-control reliability.
+- Validated in staging and deployed to production; authored HLD, LLD and pre-mortem design docs for each project.
+
+**Internshala, Web Development Intern** · Remote · Jun 2025 – Jul 2025
+- Developed **GradConnect**, an alumni networking platform (real-time chat, event scheduling, alumni discovery) with **1,000+ active users** and **5,000+ monthly interactions**.
+- Optimized REST APIs and database queries, cutting data retrieval latency by **40%**.
+
+---
+
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,py,java,js,html,css,react,tailwind,nodejs,express,flask,fastapi,mongodb,postgres,mysql,gcp,tensorflow,figma,git" alt="Tech stack"/>
+</p>
+
+**AI/ML:** Agentic AI · LLMs · RAG · LangChain · LangGraph · Prompt Engineering · Vector Embeddings · TensorFlow
+**CS Fundamentals:** Data Structures · OOP · Operating Systems · SQL
+
+---
+
+## 🏆 Highlights
+
+- 🏅 **Hackathons:** Top 90 in Smart India Hackathon 2025 (500+ registrations) · Top 15 of 200+ teams in Innovortex by Microsoft · Top 50 of 12,000+ teams in Woodpecker Hackathon
+- 🌏 **HPAIR Asia 2024:** Delegate at the Harvard Project for Asian and International Relations conference, Bangkok
+- 👩‍💻 **GHCI'24 Advancing Inclusion Scholar:** fully funded Grace Hopper Celebration India scholarship
+- 🧑‍🏫 **DSA Mentor, Protege Mentorship Society:** mentored 30+ juniors; recognized as a Top Mentor
+- 🤝 **PR Lead, Microsoft Learn Student Ambassadors:** drove 100+ hackathon registrations
+- 📣 **Unstop Growth Marketing Internship:** shortlisted from 3,00,000+ applicants
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vedanshimishra&show_icons=true&locale=en" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vedanshimishra&layout=compact&locale=en" alt="Top languages"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Vedanshimishra" alt="GitHub streak"/>
+</p>
