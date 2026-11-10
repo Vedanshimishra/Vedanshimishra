@@ -7,7 +7,6 @@
   <a href="mailto:vedanshi151@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Vedanshimishra&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/></p>
 
 ---
 
@@ -56,14 +55,4 @@
 - 🤝 **PR Lead, Microsoft Learn Student Ambassadors:** drove 100+ hackathon registrations
 - 📣 **Unstop Growth Marketing Internship:** shortlisted from 3,00,000+ applicants
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vedanshimishra&show_icons=true&locale=en" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vedanshimishra&layout=compact&locale=en" alt="Top languages"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vedanshimishra" alt="GitHub streak"/>
-</p>
