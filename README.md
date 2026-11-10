@@ -21,13 +21,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Machine learning and Javascript**
 
-- 📝 I regularly write articles on [https://medium.com/@Vedanshimishra3124](https://medium.com/@vedanshimishra3124)
-
 - 💬 Ask me about **Python HTML CSS CPP**
 
 - 📫 How to reach me **vedanshi151bteceai23@igdtuw.ac.in**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ntlEsctJ8t8XqQGotGgOdrhMz3l2GAF1/view?usp=sharing](https://drive.google.com/file/d/1ntlEsctJ8t8XqQGotGgOdrhMz3l2GAF1/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
